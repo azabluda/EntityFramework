@@ -40,6 +40,7 @@
     <Compile Include="Properties\TestAssemblyConditions.cs" />
     <Compile Include="ReverseEngineering\SqlServerE2EFixture.cs" />
     <Compile Include="ReverseEngineering\SqlServerE2ETests.cs" />
+    <Compile Include="SqlServerScaffoldingModelFactoryTest.cs" />
     <Compile Include="SqlServerDatabaseModelFactoryTest.cs" />
     <Compile Include="SqlServerDatabaseModelFixture.cs" />
   </ItemGroup>
